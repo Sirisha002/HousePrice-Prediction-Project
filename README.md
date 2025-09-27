@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # House Price Prediction Model
 This repository contains a simple House Price Prediction model implemented using Python. The project follows a structured process, including data cleaning, model development using Ridge regression, and the creation of a web-based user interface using Flask.
@@ -29,3 +30,6 @@ Open your web browser and visit http://127.0.0.1:5000/ to interact with the Hous
 Datasets Used
 Seattle House Price Prediction Dataset [Kaggle]
 Feel free to explore and adapt the project for your own use. If you have any questions or suggestions, please create an issue or reach out to yourusername. Happy coding!
+=======
+# HousePrice-Prediction-Project
+>>>>>>> 74ffaedc2cb118b1d3d234679a4260393d505f16
